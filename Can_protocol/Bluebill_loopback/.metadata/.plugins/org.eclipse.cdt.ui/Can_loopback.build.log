@@ -1,0 +1,10 @@
+14:00:55 **** Incremental Build of configuration Debug for project Can_loopback ****
+make -j8 all 
+arm-none-eabi-size  Can_loopback.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8348	     12	   1692	  10052	   2744	Can_loopback.elf
+Finished building: default.size.stdout
+ 
+
+14:00:55 Build Finished. 0 errors, 0 warnings. (took 268ms)
+

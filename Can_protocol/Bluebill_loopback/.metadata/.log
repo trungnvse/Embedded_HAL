@@ -1,0 +1,2397 @@
+!SESSION 2025-03-28 21:17:40.628 -----------------------------------------------
+eclipse.buildId=Version 1.16.1
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-03-28 21:21:02.445
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-03-28 21:21:02.479
+!MESSAGE Log4j2 initialized with config file E:\PROGRAMMING\Embedded_STM32\Blue_bill\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:10.197
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:10.203
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-03-28 21:21:12.523
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.063
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.063
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.105
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.106
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.106
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.107
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.107
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.108
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.109
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.109
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.110
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.111
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.112
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.112
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.116
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.116
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.286
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.287
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.287
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.288
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.289
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.289
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.290
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.290
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.291
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.291
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.293
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.293
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.294
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:24.296
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:33.891
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:33.891
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:33.892
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:33.892
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:33.893
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:33.893
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:33.894
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:33.894
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:33.895
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:33.895
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:33.896
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:33.896
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:33.897
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:33.897
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:35.642
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:35.643
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:35.643
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:35.644
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:35.645
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:35.645
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:35.646
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:35.647
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:35.648
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:35.648
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:35.649
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:35.649
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:35.650
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:21:35.650
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:22:56.265
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:22:56.266
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:22:56.267
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:22:56.269
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:22:56.270
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:22:56.271
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:22:56.272
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:22:56.273
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:22:56.275
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:22:56.276
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:22:56.277
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:22:56.277
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:22:56.279
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:22:56.280
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:00.288
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:00.290
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:00.292
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:00.293
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:00.294
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:00.295
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:00.297
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:00.298
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:00.299
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:00.300
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:00.301
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:00.302
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:00.304
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:00.305
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:01.081
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:01.082
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:01.083
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:01.085
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:01.086
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:01.087
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:01.089
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:01.090
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:01.092
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:01.093
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:01.094
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:01.095
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:01.096
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:23:01.097
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:28:58.694
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:28:58.694
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:28:58.695
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:28:58.696
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:28:58.696
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:28:58.696
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:28:58.697
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:28:58.697
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:28:58.697
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:28:58.697
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:28:58.698
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:28:58.698
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:28:58.699
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:28:58.699
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:29:47.230
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:29:47.232
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:29:47.233
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:29:47.234
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:29:47.235
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:29:47.236
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:29:47.249
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:29:47.252
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:29:47.254
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:29:47.255
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:29:47.257
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:29:47.258
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:29:47.259
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-28 21:29:47.261
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-03-28 21:30:49.161
+!MESSAGE Indexed 'Can_loopback' (17 sources, 78 headers) in 10.1 sec: 3,643 declarations; 13,251 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+!SESSION 2025-03-29 14:10:37.021 -----------------------------------------------
+eclipse.buildId=Version 1.16.1
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-03-29 14:11:10.849
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-03-29 14:11:10.858
+!MESSAGE Log4j2 initialized with config file E:\PROGRAMMING\Embedded_STM32\Blue_bill\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:15.667
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:15.668
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-03-29 14:11:17.618
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.357
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.358
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.393
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.393
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.394
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.394
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.394
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.394
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.395
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.395
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.395
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.395
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.396
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.396
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.397
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.397
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.544
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.545
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.545
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.545
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.546
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.546
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.546
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.547
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.547
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.548
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.548
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.548
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.549
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.549
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.817
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.818
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.818
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.819
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.819
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.819
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.820
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.820
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.821
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.821
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.822
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.822
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.822
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:23.823
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.766
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.766
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.767
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.768
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.768
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.769
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.770
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.770
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.771
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.771
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.772
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.772
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.773
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.773
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.910
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.911
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.911
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.912
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.913
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.913
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.914
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.914
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.915
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.916
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.916
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.917
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.917
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:24.917
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.810
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.810
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.811
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.811
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.811
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.813
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.813
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.814
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.814
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.815
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.815
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.815
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.816
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.817
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.830
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.830
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.831
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.831
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.831
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.832
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.832
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.832
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.833
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.833
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.834
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.834
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.835
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.835
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.881
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.881
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.882
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.883
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.883
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.884
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.884
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.885
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.885
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.885
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.886
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.887
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.887
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.888
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.894
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.894
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.895
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.896
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.897
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.897
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.898
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.899
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.900
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.900
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.902
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.902
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.902
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.903
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.912
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.913
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.913
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.914
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.914
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.915
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.915
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.915
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.915
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.916
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.916
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.916
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.917
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.917
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.925
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.925
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.926
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.926
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.927
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.927
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.928
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.928
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.930
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.931
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.931
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.932
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.933
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.933
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.941
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.942
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.942
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.943
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.943
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.943
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.944
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.944
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.945
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.945
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.945
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.946
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.946
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.947
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.953
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.953
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.955
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.955
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.955
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.955
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.956
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.956
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.956
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.957
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.957
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.958
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.958
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:25.959
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.038
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.039
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.040
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.040
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.040
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.040
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.041
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.041
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.041
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.042
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.042
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.042
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.042
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.043
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.049
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.050
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.050
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.051
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.051
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.051
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.052
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.052
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.052
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.053
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.053
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.053
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.053
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.054
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.098
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.098
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.098
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.098
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.099
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.099
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.099
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.100
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.100
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.100
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.101
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.102
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.102
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.103
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.110
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.110
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.110
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.111
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.111
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.111
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.111
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.112
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.112
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.112
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.113
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.113
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.113
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.113
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.982
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.982
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.982
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.983
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.983
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.983
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.984
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.984
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.984
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.984
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.985
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.985
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.985
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.985
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.993
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.993
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.993
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.994
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.994
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.994
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.994
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.994
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.996
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.996
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.997
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.997
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.997
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:26.998
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.826
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.826
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.826
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.827
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.827
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.827
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.827
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.827
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.828
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.828
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.828
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.828
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.828
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.829
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.835
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.835
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.836
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.836
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.836
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.837
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.837
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.837
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.838
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.838
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.838
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.838
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.838
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:27.839
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.664
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.665
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.665
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.665
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.666
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.666
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.666
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.666
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.666
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.667
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.667
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.667
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.667
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.667
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.675
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.675
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.676
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.676
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.676
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.677
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.677
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.678
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.678
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.679
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.679
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.679
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.680
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:28.680
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.514
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.514
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.515
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.515
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.515
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.516
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.516
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.517
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.517
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.517
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.518
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.518
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.519
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.519
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.531
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.531
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.532
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.533
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.534
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.534
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.534
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.535
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.535
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.535
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.536
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.536
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.537
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:29.537
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.408
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.408
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.411
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.411
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.412
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.412
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.412
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.413
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.413
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.413
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.415
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.415
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.415
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.416
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.422
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.424
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.424
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.425
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.425
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.426
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.427
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.427
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.428
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.428
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.428
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.429
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.430
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:30.430
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.259
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.260
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.260
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.261
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.261
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.261
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.262
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.262
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.262
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.262
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.263
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.263
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.263
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.263
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.271
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.271
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.272
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.272
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.272
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.273
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.273
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.274
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.274
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.274
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.274
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.274
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.276
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:31.276
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.112
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.113
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.113
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.115
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.115
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.115
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.115
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.116
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.117
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.118
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.120
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.120
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.120
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.120
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.128
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.128
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.129
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.130
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.130
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.131
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.132
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.132
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.134
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.135
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.136
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.136
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.137
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.137
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.455
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.455
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.456
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.456
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.457
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.457
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.458
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.458
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.459
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.459
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.460
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.460
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.461
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.461
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.471
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.471
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.472
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.472
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.473
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.473
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.474
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.474
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.475
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.475
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.476
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.476
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.477
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 14:11:32.477
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 4 4 2025-03-29 15:16:33.578
+!MESSAGE ST-LINK GDB server failed to start (exit code = 6)
+
+!ENTRY org.eclipse.cdt.dsf.gdb 4 5012 2025-03-29 15:16:33.675
+!MESSAGE Error in final launch sequence:
+
+Failed to start GDB server
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to start GDB server
+	at org.eclipse.cdt.dsf.concurrent.Query.get(Query.java:112)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugSession(GdbLaunchDelegate.java:252)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugger(GdbLaunchDelegate.java:109)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launch(GdbLaunchDelegate.java:97)
+	at com.st.stm32cube.ide.mcu.debug.launch.DSFDelegate.launch(DSFDelegate.java:336)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:805)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:716)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.runtime.CoreException: Error in initializing ST-LINK device.
+Reason: (6) ST-LINK firmware upgrade required.
+Please upgrade the ST-LINK firmware using the upgrade tool. Reconnect ST-LINK and click OK
+	at com.st.stm32cube.ide.mcu.debug.stlink.StLinkDebugHardware.verifyServer(StLinkDebugHardware.java:1830)
+	at com.st.stm32cube.ide.mcu.debug.launch.export.HardwareDebugUtil.startServer(HardwareDebugUtil.java:199)
+	at com.st.stm32cube.ide.mcu.debug.launch.export.HardwareDebugUtil.startServer(HardwareDebugUtil.java:93)
+	at com.st.stm32cube.ide.mcu.debug.launch.LaunchSequenceUtil.stepStartGDBServer(LaunchSequenceUtil.java:206)
+	at com.st.stm32cube.ide.mcu.debug.launch.GDBExtendedJtagDSFFinalLaunchSequence_7_12.stepStartGDBServer(GDBExtendedJtagDSFFinalLaunchSequence_7_12.java:104)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.cdt.dsf.concurrent.ReflectionSequence$ReflectionStep.execute(ReflectionSequence.java:160)
+	at org.eclipse.cdt.dsf.concurrent.Sequence.executeStep(Sequence.java:475)
+	at org.eclipse.cdt.dsf.concurrent.Sequence$2.handleSuccess(Sequence.java:437)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleCompleted(RequestMonitor.java:391)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor$2.run(RequestMonitor.java:317)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+!SUBENTRY 1 com.st.stm32cube.ide.mcu.debug.launch 4 0 2025-03-29 15:16:33.677
+!MESSAGE Failed to start GDB server
+!STACK 1
+org.eclipse.core.runtime.CoreException: Error in initializing ST-LINK device.
+Reason: (6) ST-LINK firmware upgrade required.
+Please upgrade the ST-LINK firmware using the upgrade tool. Reconnect ST-LINK and click OK
+	at com.st.stm32cube.ide.mcu.debug.stlink.StLinkDebugHardware.verifyServer(StLinkDebugHardware.java:1830)
+	at com.st.stm32cube.ide.mcu.debug.launch.export.HardwareDebugUtil.startServer(HardwareDebugUtil.java:199)
+	at com.st.stm32cube.ide.mcu.debug.launch.export.HardwareDebugUtil.startServer(HardwareDebugUtil.java:93)
+	at com.st.stm32cube.ide.mcu.debug.launch.LaunchSequenceUtil.stepStartGDBServer(LaunchSequenceUtil.java:206)
+	at com.st.stm32cube.ide.mcu.debug.launch.GDBExtendedJtagDSFFinalLaunchSequence_7_12.stepStartGDBServer(GDBExtendedJtagDSFFinalLaunchSequence_7_12.java:104)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.cdt.dsf.concurrent.ReflectionSequence$ReflectionStep.execute(ReflectionSequence.java:160)
+	at org.eclipse.cdt.dsf.concurrent.Sequence.executeStep(Sequence.java:475)
+	at org.eclipse.cdt.dsf.concurrent.Sequence$2.handleSuccess(Sequence.java:437)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleCompleted(RequestMonitor.java:391)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor$2.run(RequestMonitor.java:317)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+!SUBENTRY 2 com.st.stm32cube.ide.mcu.toolchain 4 0 2025-03-29 15:16:33.677
+!MESSAGE Error in initializing ST-LINK device.
+Reason: (6) ST-LINK firmware upgrade required.
+Please upgrade the ST-LINK firmware using the upgrade tool. Reconnect ST-LINK and click OK
+
+!ENTRY org.eclipse.equinox.p2.touchpoint.natives 2 0 2025-03-29 15:53:48.085
+!MESSAGE Could not remove temporary backup directory (it is safe to manually delete it and its contents): C:\Users\PCHP\AppData\Local\Temp\STM32CubeIDE_4a86b0f0-ae6f-49fe-9be6-faf0884c5d47
+!SESSION 2025-03-29 15:54:04.201 -----------------------------------------------
+eclipse.buildId=Version 1.16.1
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data file:/E:/PROGRAMMING/Embedded_STM32/Blue_bill/
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-03-29 15:55:23.103
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-03-29 15:55:23.105
+!MESSAGE Log4j2 initialized with config file E:\PROGRAMMING\Embedded_STM32\Blue_bill\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:30.814
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:30.814
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-03-29 15:55:33.183
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:37.851
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:37.851
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:37.887
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:37.887
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:37.888
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:37.888
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:37.889
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:37.889
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:37.889
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:37.889
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:37.890
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:37.890
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:37.891
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:37.891
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:37.893
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:37.894
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.027
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.027
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.028
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.029
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.030
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.031
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.032
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.032
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.033
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.033
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.034
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.034
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.034
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.034
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.679
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.680
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.681
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.682
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.682
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.683
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.683
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.684
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.685
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.685
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.686
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.686
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.688
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:38.688
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:39.811
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:39.812
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:39.812
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:39.813
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:39.814
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:39.814
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:39.815
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:39.815
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:39.816
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:39.816
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:39.817
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:39.817
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:39.817
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:39.819
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:40.033
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:40.033
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:40.034
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:40.034
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:40.035
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:40.035
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:40.036
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:40.036
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:40.036
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:40.037
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:40.037
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:40.038
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:40.038
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-29 15:55:40.040
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.jobs 4 2 2025-03-29 16:30:11.398
+!MESSAGE An internal error occurred during: "Execute Debug Command".
+!STACK 0
+org.eclipse.core.runtime.AssertionFailedException: assertion failed: The application has not been initialized.
+	at org.eclipse.core.runtime.Assert.isTrue(Assert.java:119)
+	at org.eclipse.core.internal.runtime.InternalPlatform.assertInitialized(InternalPlatform.java:185)
+	at org.eclipse.core.internal.runtime.InternalPlatform.getAdapterManager(InternalPlatform.java:206)
+	at org.eclipse.core.runtime.Platform.getAdapterManager(Platform.java:661)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunch.getAdapter(GdbLaunch.java:454)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunch.disconnect(GdbLaunch.java:338)
+	at org.eclipse.debug.internal.core.commands.DisconnectCommand.execute(DisconnectCommand.java:35)
+	at org.eclipse.debug.internal.core.commands.ForEachCommand.doExecute(ForEachCommand.java:36)
+	at org.eclipse.debug.core.commands.AbstractDebugCommand$1.run(AbstractDebugCommand.java:215)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.jobs 2 2 2025-03-29 16:30:11.905
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.debug.core.DebugPlugin$EventDispatchJob RUNNING
+	 at java.base/java.lang.Object.wait0(Native Method)
+	 at java.base/java.lang.Object.wait(Object.java:366)
+	 at java.base/java.lang.Object.wait(Object.java:339)
+	 at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:200)
+	 at org.eclipse.swt.widgets.Display.syncExec(Display.java:4855)
+	 at com.st.stm32cube.ide.mcu.debug.launch.Activator$DebugEventListener.inDebugPerspective(Activator.java:152)
+	 at com.st.stm32cube.ide.mcu.debug.launch.Activator$DebugEventListener.handleDebugEvents(Activator.java:85)
+	 at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1287)
+	 at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	 at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1321)
+	 at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:498)
+	 at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.jobs 2 2 2025-03-29 16:30:11.906
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.cdt.dsf.gdb.internal.ui.console.GdbBasicCliConsole$InputReadJob RUNNING
+	 at java.base/java.lang.Object.wait0(Native Method)
+	 at java.base/java.lang.Object.wait(Object.java:366)
+	 at java.base/java.lang.Object.wait(Object.java:339)
+	 at org.eclipse.ui.console.IOConsoleInputStream.waitForData(IOConsoleInputStream.java:140)
+	 at org.eclipse.ui.console.IOConsoleInputStream.read(IOConsoleInputStream.java:91)
+	 at org.eclipse.ui.console.IOConsoleInputStream.read(IOConsoleInputStream.java:113)
+	 at org.eclipse.cdt.dsf.gdb.internal.ui.console.GdbBasicCliConsole$InputReadJob.run(GdbBasicCliConsole.java:248)
+	 at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2025-03-30 00:01:39.877 -----------------------------------------------
+eclipse.buildId=Version 1.18.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-03-30 00:01:54.243
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-03-30 00:01:54.243
+!MESSAGE Log4j2 initialized with config file E:\PROGRAMMING\Embedded_STM32\Blue_bill\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:01:59.020
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:01:59.021
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-03-30 00:02:01.045
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.711
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.711
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.750
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.750
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.756
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.756
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.756
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.756
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.756
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.756
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.756
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.756
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.756
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.756
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.756
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.756
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.875
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.875
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.875
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.875
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.875
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.875
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.875
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.875
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.875
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.875
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.875
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.875
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.875
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 00:02:04.875
+!MESSAGE System property https.proxyPort is not set but should be 443.
+!SESSION 2025-03-30 13:12:17.876 -----------------------------------------------
+eclipse.buildId=Version 1.18.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-03-30 13:12:32.885
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-03-30 13:12:32.888
+!MESSAGE Log4j2 initialized with config file E:\PROGRAMMING\Embedded_STM32\Blue_bill\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:38.713
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:38.714
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-03-30 13:12:41.203
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.506
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.507
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.543
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.544
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.545
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.545
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.545
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.546
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.546
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.546
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.547
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.547
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.547
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.548
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.550
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.550
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.700
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.701
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.701
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.701
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.702
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.702
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.703
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.703
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.704
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.704
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.705
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.705
+!MESSAGE System property https.proxyPort is not set but should be 443.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.706
+!MESSAGE System property https.proxyHost is not set but should be st.com.
+
+!ENTRY org.eclipse.core.net 1 0 2025-03-30 13:12:45.706
+!MESSAGE System property https.proxyPort is not set but should be 443.
